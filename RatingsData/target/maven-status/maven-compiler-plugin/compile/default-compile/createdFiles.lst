@@ -1,0 +1,4 @@
+com\java\RatingsDataServiceApplication.class
+com\java\models\Rating.class
+com\java\models\UserRating.class
+com\java\resource\RatingsResource.class
